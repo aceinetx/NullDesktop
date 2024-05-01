@@ -2,5 +2,5 @@ NullDesktop - explorer.exe replacement with cmd.exe, which increases performance
 <h2>Features released</h2>
 - Volume control
 <h2>Featues planned</h2>
-- that menu when you press windows key but in cmd
+- that menu when you press windows key but in cmd<br>
 - other shortcuts that are only available when explorer.exe is running
